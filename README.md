@@ -1,5 +1,3 @@
-# machine_learning
-This is machine learning repository. 
 # 🧠 Stroke Prediction using Machine Learning
 
 ## 📌 Overview
